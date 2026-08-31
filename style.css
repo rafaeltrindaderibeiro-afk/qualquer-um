@@ -6,4 +6,26 @@ background-color: black;
 h1{
     color: black;
 font-size: 100px;
-{
+{body {
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+h1 {
+    color: #ff2a00;
+    font-size: 50px;
+}
+
+h2 {
+    color: #ffd700;
+    font-size: 35px;
+}
+
+iframe {
+    max-width: 90%;
+    height: 350px;
+    margin: 15px auto;
+    border-radius: 10px;
+}
